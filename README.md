@@ -5,7 +5,7 @@ Live Demo : https://ghozymhm.github.io/EdukaS1-Elearning-Website/
 
 Features :
 
-  . Responsive Website
+  . Responsive Website<br>
   . Navigation Bar Color Change on Scrolling
   . Full Page JS
   . Modals
